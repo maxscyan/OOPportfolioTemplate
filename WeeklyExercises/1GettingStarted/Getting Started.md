@@ -41,13 +41,19 @@ Introduce the following errors, one at a time. Note any messages that the compil
 
 
 a. Change Test to test.\
+Error message occurs, keep Test, not test.
 b. Change Emergency to emergency.\
+No error message produced, as the change here was in the printed string where capitalisation does not matter.
 c. Remove the first quotation mark in the string.\
+Error message "java: ')' or ',' expected.
 d. Change main to man.\
+No error message here. This is because the main method can be named anything. Conventionally, it should be named main instead of man.
 e. Change println to bogus.\
+An error is given, as bogus is not an actual comand 
 f. Remove the semicolon at the end of the println statement.\
+An error is given
 g. Remove the last brace in the program.
-
+An error is given
 
 **3. Create a second project called “PersonalDetails” and write a program that outputs some personal details to the screen, e.g. Name, Address, Age, Phone number etc.**
 
