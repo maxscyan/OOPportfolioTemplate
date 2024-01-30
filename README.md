@@ -1,8 +1,8 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Max Siu Chung Yan
+### CS4B
+### Kumar S
 
 
 
