@@ -41,9 +41,13 @@ Introduce the following errors, one at a time. Note any messages that the compil
 
 
 a. Change Test to test.\
+Error message occurs, keep Test, not test.
 b. Change Emergency to emergency.\
+No error message produced, as the change here was in the printed string where capitalisation does not matter.
 c. Remove the first quotation mark in the string.\
+Error message "java: ')' or ',' expected.
 d. Change main to man.\
+No error message here. 
 e. Change println to bogus.\
 f. Remove the semicolon at the end of the println statement.\
 g. Remove the last brace in the program.
