@@ -7,7 +7,7 @@ public class TaskFive {
     num = scan.nextInt();
     System.out.println("Please enter a denominator: ");
     den = scan.nextInt();
-    float decimal = (float)num / (float)den;
+    double decimal = (double) num / den;
     System.out.println(decimal);
     }
 }
