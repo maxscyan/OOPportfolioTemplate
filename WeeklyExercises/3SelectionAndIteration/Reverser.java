@@ -10,9 +10,8 @@ public class Reverser {
 
         for (int i = 0; i < input.length(); i++) {
             chr = input.charAt(i);
-            reversed = chr + reversed;
-
-        }
+            reversed = chr + reversed; }
+    
         System.out.println("Word: " + reversed);
     }
 }
